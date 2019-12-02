@@ -41,7 +41,7 @@ h1 {
 
 /* submit button */
 
-input {
+.input {
     width: 95%;
     margin: auto;
     padding: 0.6rem;
